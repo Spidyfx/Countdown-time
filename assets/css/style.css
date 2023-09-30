@@ -17,6 +17,7 @@ body {
     justify-content: center;
     text-align: center;
     
+    
 }
 
 h1 {
@@ -24,7 +25,7 @@ h1 {
     font-size: 60px;
     margin: -150px 0 40px;
     padding: auto;
-    color: rgba(240, 255, 255, 0.623);
+    color: snow;
 }
 
 .countdown {
@@ -38,6 +39,7 @@ h1 {
     align-items: center;
     justify-content: center;
     margin: 15px;
+    
 }
 
 .time h2 {
@@ -45,13 +47,13 @@ h1 {
     font-size: 36px;
     line-height: 1;
     margin: 0 0 15px;
-    color: rgba(240, 255, 255, 0.623);
+    color: snow;
 }
 
 @media (max-width: 500px) {
     h1 {
         font-size: 45px;
-        color: rgba(240, 255, 255, 0.623);
+        color: snow;
     }
 
     .time {
