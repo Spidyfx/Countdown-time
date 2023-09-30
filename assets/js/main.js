@@ -5,7 +5,7 @@ const seconds = document.getElementById('seconds');
 
 const currentYear = new Date().getFullYear();
 
-const lunchDay = new Date(`October 1 ${currentYear } 00:00:00 GMT+02:00`);
+const lunchDay = new Date(`October 3 ${currentYear } 00:00:00 GMT+02:00`);
 
 //update Countdowntime
 function updateCountdown() {
