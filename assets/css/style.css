@@ -62,6 +62,7 @@ h1 {
     
     .time h2 {
         font-size: 12px;
+        background: black;
     }
 
     .time small {
