@@ -5,7 +5,7 @@ const seconds = document.getElementById('seconds');
 
 const currentYear = new Date().getFullYear();
 
-const lunchDay = new Date(`May 5 2024 00:00:00 GMT+05:30`);
+const lunchDay = new Date(`May 5 2024 00:14:00 GMT+05:30`);
 
 //update Countdowntime
 function updateCountdown() {
